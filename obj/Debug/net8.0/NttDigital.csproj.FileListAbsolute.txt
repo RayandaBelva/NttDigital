@@ -1,0 +1,14 @@
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\bin\Debug\net8.0\NttDigital.exe
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\bin\Debug\net8.0\NttDigital.deps.json
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\bin\Debug\net8.0\NttDigital.runtimeconfig.json
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\bin\Debug\net8.0\NttDigital.dll
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\bin\Debug\net8.0\NttDigital.pdb
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.GeneratedMSBuildEditorConfig.editorconfig
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.AssemblyInfoInputs.cache
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.AssemblyInfo.cs
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.csproj.CoreCompileInputs.cache
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.dll
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\refint\NttDigital.dll
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.pdb
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\NttDigital.genruntimeconfig.cache
+D:\BELVA\Dokumen Test Enigma\NttDigital\NttDigital\obj\Debug\net8.0\ref\NttDigital.dll
